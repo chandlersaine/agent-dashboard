@@ -1,0 +1,16 @@
+{
+  "agents": [
+    {
+      "id": "claude-code-01",
+      "name": "Claude Code — Primary",
+      "owner": "Chandler",
+      "domain": "Engineering / Automation",
+      "status": "idle",
+      "current_task": null,
+      "last_action": "Initial setup",
+      "last_updated": "2026-03-23T12:00:00Z",
+      "tasks_completed_today": 0,
+      "error_count": 0
+    }
+  ]
+}
