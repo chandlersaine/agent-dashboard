@@ -7,6 +7,14 @@
       "summary": "Operational dashboard for AI agent fleet deployed to GitHub Pages. Tracks agent status, task queue, and knowledge base updates in real time.",
       "source": "Claude Code",
       "timestamp": "2026-03-23T12:00:00Z"
+    },
+    {
+      "id": "kb-csycnj",
+      "title": "Full Automation Pipeline Deployed",
+      "category": "system",
+      "summary": "Content pipeline now running 24/7. Pulls from Zoom (all 7 users), GHL (call recordings), Slack (15 channels), Discord (151 channels). Hourly cron ingests new content \u2192 classifies \u2192 KB gate (only meaningful knowledge stored) \u2192 alert detection (fires tag Chandler instantly). 6pm daily Slack report, Monday 8am weekly report. Loom skipped \u2014 API deprecated.",
+      "source": "Claude Code",
+      "timestamp": "2026-03-23T09:05:38Z"
     }
   ]
 }
